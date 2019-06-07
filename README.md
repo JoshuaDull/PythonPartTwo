@@ -1,6 +1,8 @@
-# Python Part One
+# Python Part Two
 
-This repo contains workshop materials for the introductory workshop: _Python Part Two_. You can find Part One of this workshop here: [Python Part One](https://joshuadull.github.io/PythonPartOne/). Part Two will focus on working with data in python using the pandas library. 
+This repo contains workshop materials for the introductory workshop: _Python Part Two_.  Part Two will focus on working with data in python using the pandas library. 
+
+You can find Part One of this workshop here: [Python Part One](https://joshuadull.github.io/PythonPartOne/).
 
 For this workshop, I recommend installing Python 3 using [Anaconda](https://www.anaconda.com/distribution/#download-section). The workshop was built using the Spyder IDE, but users can use any python environment they prefer.
 
